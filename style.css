@@ -1,16 +1,25 @@
 body {
 	margin: 0;
 	padding: 0;
-	background: white;
-	color: pink;
+	background: salmon;
+	color: #282828;
 	font-family: helvetica;
 }
 main {
 	padding: 1em;
 }
 h1 {
-	margin: 0 0 1em 0;
+	margin: 0 0 0em 51px;
+	font-size: 80px;
+
+}
+h2{
+	margin: 0 0 0em 190px;
+	font-size: 30px;
+	font-weight: 100;
 }
 p {
-	margin: 0 0 1em 0;
+	margin: 1em 4em 1em 30em;
+	padding:30px;
+	font-size:18px;
 }
